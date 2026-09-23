@@ -1,0 +1,4 @@
+<resources>
+    <string name="paper_size">US Letter (unchecked = A4)</string>
+    <string name="page_numbers">Include page numbers</string>
+</resources>
